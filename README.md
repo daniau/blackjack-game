@@ -18,7 +18,10 @@ This is a practice project to improve my JavaScript skills by building a simple 
 ## 🧪 How to Play
 1. Click "Start Game" 
 2. Click "new card" to draw another card.
-3. The winner is determined by who gets closest to 21 without going over
+3. The winner is determined by who gets closest to 21 without going over.
+   
 
 📁 How to Run
 Just open the index.html file in your browser
+
+
